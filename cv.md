@@ -1,5 +1,5 @@
 # Anastasia Khudina
-![](https://drive.google.com/file/d/1XyEDh_3Lbes07Xuoqw4dXgeSehHpL7XA/view?usp=sharing)
+![](https://disk.yandex.ru/i/uLax6zLeVPEGIA)
 ----
 ## Code example
 task:
