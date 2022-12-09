@@ -1,5 +1,5 @@
 # Anastasia Khudina
-![](https://disk.yandex.ru/i/uLax6zLeVPEGIA)
+![](file:///D:/Документы/RS/test3/Photo2.jpg)
 ----
 ## Code example
 task:
