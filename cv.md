@@ -1,5 +1,5 @@
 # Anastasia Khudina
-![](file:///D:/Документы/RS/Проекты/Photo2.jpg)
+![](https://drive.google.com/file/d/1XyEDh_3Lbes07Xuoqw4dXgeSehHpL7XA/view?usp=sharing)
 ----
 ## Code example
 task:
